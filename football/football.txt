@@ -1,3 +1,0 @@
-1.ball
-2.goalpost
-3.cleats
